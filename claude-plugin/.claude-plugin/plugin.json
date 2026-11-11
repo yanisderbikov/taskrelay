@@ -1,0 +1,12 @@
+{
+  "name": "taskrelay",
+  "version": "0.1.0",
+  "description": "Teaches Claude to use TaskRelay: transactional outbox and durable background tasks for Spring Boot on PostgreSQL.",
+  "author": {
+    "name": "Yan Derbikov",
+    "url": "https://github.com/yanisderbikov"
+  },
+  "homepage": "https://github.com/yanisderbikov/taskrelay",
+  "repository": "https://github.com/yanisderbikov/taskrelay",
+  "license": "Apache-2.0"
+}

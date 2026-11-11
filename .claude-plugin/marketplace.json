@@ -1,0 +1,17 @@
+{
+  "name": "taskrelay",
+  "owner": {
+    "name": "Yan Derbikov",
+    "url": "https://github.com/yanisderbikov"
+  },
+  "metadata": {
+    "description": "Claude Code skill for TaskRelay, the transactional outbox and background task library for Spring Boot on PostgreSQL."
+  },
+  "plugins": [
+    {
+      "name": "taskrelay",
+      "source": "./claude-plugin",
+      "description": "Teaches Claude to use TaskRelay: transactional outbox and durable background tasks for Spring Boot on PostgreSQL."
+    }
+  ]
+}
